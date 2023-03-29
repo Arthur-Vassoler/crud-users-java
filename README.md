@@ -1,4 +1,4 @@
-# Projeto de CRUD de usuários em Java
+# Projeto CRUD de usuários em Java
 
 Este projeto é um exemplo de um aplicativo Java que realiza operações CRUD (criar, ler, atualizar e excluir) em uma tabela de usuários em um banco de dados relacional.
 
